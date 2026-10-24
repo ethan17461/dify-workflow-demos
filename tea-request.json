@@ -1,0 +1,10 @@
+{
+  "inputs": {
+    "product_name": "课堂示例红茶",
+    "selling_point": "仿写材料：独立小袋包装。没有提供产地、认证和功效证明，请勿自行补充。",
+    "audience": "想在办公室方便泡茶的成年人",
+    "stage": "认知"
+  },
+  "response_mode": "blocking",
+  "user": "demo-caller"
+}
